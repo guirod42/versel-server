@@ -102,5 +102,21 @@
       "NomeProjeto": "Inteligência Artificial",
       "Descricao": "Pesquisa em Inteligência Artificial e suas aplicações"
     }
+  ],
+  "tarefas": [
+    {
+      "id": 1,
+      "ProjetoID": 1,
+      "Titulo": "Definir tema do TCC",
+      "Descricao": "É preciso definir o tema do Projeto de TCC",
+      "Status": 0
+    },
+	{
+      "id": 2,
+      "ProjetoID": 1,
+      "Titulo": "Definir metodologia",
+      "Descricao": "Qual metodologia será utilizada na realização do TCC",
+      "Status": 0
+    }
   ]
 }
