@@ -1,0 +1,98 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Guilherme Silva Rodrigues",
+      "email": "gui.silva.rodrigues@outlook.com.br",
+      "login": "Guilherme",
+      "password": "12345",
+      "tipo": 1
+    },
+    {
+      "id": 2,
+      "nome": "Carlos Rodrigues",
+      "email": "carlos@gmail.com",
+      "login": "Carlos",
+      "password": "12345",
+      "tipo": 1
+    },
+    {
+      "id": 3,
+      "nome": "Amanda",
+      "email": "amanda@gmail.com",
+      "login": "Amanda",
+      "password": "12345",
+      "tipo": 1
+    },
+    {
+      "id": 4,
+      "nome": "Estevão Mathias",
+      "email": "estevao@gmail.com",
+      "login": "Estevao",
+      "password": "12345",
+      "tipo": 1
+    },
+    {
+      "id": 5,
+      "nome": "Samuel Cardoso",
+      "email": "samuel@gmail.com",
+      "login": "Samuel",
+      "password": "12345",
+      "tipo": 1
+    },
+    {
+      "id": 6,
+      "nome": "Mauricio José",
+      "email": "mauriciojose@uniaraxa.edu.br",
+      "login": "Mauricio",
+      "password": "123",
+      "tipo": 2
+    },
+    {
+      "id": 7,
+      "nome": "Humberto Melo",
+      "email": "humbertomelo@uniaraxa.edu.br",
+      "login": "Humberto",
+      "password": "123",
+      "tipo": 2
+    },
+    {
+      "id": 8,
+      "nome": "Robinson Cruz",
+      "email": "robinsoncruz@uniaraxa.edu.br",
+      "login": "Robinson",
+      "password": "123",
+      "tipo": 2
+    }
+  ],
+  "solicitacoes": [
+    {
+      "id": 1,
+      "AlunoSolicitanteID": 2,
+      "ProfessorOrientadorID": 6,
+      "NomeProjeto": "Desenvolvimento mobile",
+      "Descricao": "Proposta de Desenvolvimento de aplicativo mobile"
+    },
+	{
+      "id": 2,
+      "AlunoSolicitanteID": 3,
+      "ProfessorOrientadorID": 7,
+      "NomeProjeto": "Banco de dados",
+      "Descricao": "Análise de dados e BI"
+    },
+    {
+      "id": 3,
+      "AlunoSolicitanteID": 4,
+      "ProfessorOrientadorID": 7,
+      "NomeProjeto": "Sistema de Gestão",
+      "Descricao": "Desenvolvimento de um sistema de gestão empresarial"
+    },
+    {
+      "id": 4,
+      "AlunoSolicitanteID": 5,
+      "ProfessorOrientadorID": 8,
+      "NomeProjeto": "Inteligência Artificial",
+      "Descricao": "Pesquisa em Inteligência Artificial e suas aplicações"
+    }
+  ]
+}
