@@ -6,7 +6,8 @@
       "email": "gui.silva.rodrigues@outlook.com.br",
       "login": "Guilherme",
       "password": "12345",
-      "tipo": 1
+      "tipo": 1,
+	  "imagem" : NULL
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "email": "carlos@gmail.com",
       "login": "Carlos",
       "password": "12345",
-      "tipo": 1
+      "tipo": 1,
+	  "imagem" : NULL
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "email": "amanda@gmail.com",
       "login": "Amanda",
       "password": "12345",
-      "tipo": 1
+      "tipo": 1,
+	  "imagem" : NULL
     },
     {
       "id": 4,
@@ -30,7 +33,8 @@
       "email": "estevao@gmail.com",
       "login": "Estevao",
       "password": "12345",
-      "tipo": 1
+      "tipo": 1,
+	  "imagem" : NULL
     },
     {
       "id": 5,
@@ -38,7 +42,8 @@
       "email": "samuel@gmail.com",
       "login": "Samuel",
       "password": "12345",
-      "tipo": 1
+      "tipo": 1,
+	  "imagem" : NULL
     },
     {
       "id": 6,
@@ -46,7 +51,8 @@
       "email": "mauriciojose@uniaraxa.edu.br",
       "login": "Mauricio",
       "password": "123",
-      "tipo": 2
+      "tipo": 2,
+	  "imagem" : "https://sec.uniaraxa.edu.br/assets/lms/Pessoa/193-636687419898079554.jpg"
     },
     {
       "id": 7,
@@ -54,7 +60,8 @@
       "email": "humbertomelo@uniaraxa.edu.br",
       "login": "Humberto",
       "password": "123",
-      "tipo": 2
+      "tipo": 2,
+	  "imagem" : "https://files.uniaraxa.edu.br/assets/apps/lms/img/136-119.png"
     },
     {
       "id": 8,
@@ -62,7 +69,8 @@
       "email": "robinsoncruz@uniaraxa.edu.br",
       "login": "Robinson",
       "password": "123",
-      "tipo": 2
+      "tipo": 2,
+	  "imagem" : "https://sec.uniaraxa.edu.br/assets/lms/Pessoa/255-636645696799475269.jpg"
     }
   ],
   "solicitacoes": [
