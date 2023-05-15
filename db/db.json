@@ -7,7 +7,8 @@
       "login": "Guilherme",
       "password": "12345",
       "tipo": 1,
-	  "imagem" : "NULL"
+	  "imagem" : "NULL",
+	  "token": ""
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "login": "Carlos",
       "password": "12345",
       "tipo": 1,
-	  "imagem" : "NULL"
+	  "imagem" : "NULL",
+	  "token": ""
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "login": "Amanda",
       "password": "12345",
       "tipo": 1,
-	  "imagem" : "NULL"
+	  "imagem" : "NULL",
+	  "token": ""
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "login": "Estevao",
       "password": "12345",
       "tipo": 1,
-	  "imagem" : "NULL"
+	  "imagem" : "NULL",
+	  "token": ""
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "login": "Samuel",
       "password": "12345",
       "tipo": 1,
-	  "imagem" : "NULL"
+	  "imagem" : "NULL",
+	  "token": ""
     },
     {
       "id": 6,
@@ -52,7 +57,8 @@
       "login": "Mauricio",
       "password": "123",
       "tipo": 2,
-	  "imagem" : "https://sec.uniaraxa.edu.br/assets/lms/Pessoa/193-636687419898079554.jpg"
+	  "imagem" : "https://sec.uniaraxa.edu.br/assets/lms/Pessoa/193-636687419898079554.jpg",
+	  "token": ""
     },
     {
       "id": 7,
@@ -61,7 +67,8 @@
       "login": "Humberto",
       "password": "123",
       "tipo": 2,
-	  "imagem" : "https://files.uniaraxa.edu.br/assets/apps/lms/img/136-119.png"
+	  "imagem" : "https://files.uniaraxa.edu.br/assets/apps/lms/img/136-119.png",
+	  "token": ""
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "login": "Robinson",
       "password": "123",
       "tipo": 2,
-	  "imagem" : "https://sec.uniaraxa.edu.br/assets/lms/Pessoa/255-636645696799475269.jpg"
+	  "imagem" : "https://sec.uniaraxa.edu.br/assets/lms/Pessoa/255-636645696799475269.jpg",
+	  "token": ""
     }
   ],
   "solicitacoes": [
